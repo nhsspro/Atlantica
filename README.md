@@ -1,1 +1,5 @@
 # Atlantica
+
+Fui o desenvolvedor full-stack de um sistema web de e-commerce voltado para pré-vendas, desenvolvido para a empresa Âtlantica, uma renomada montadora de móveis de luxo para pets. O projeto envolveu a criação de uma plataforma intuitiva e robusta, com funcionalidades de gestão de produtos, controle de estoque, processamento de pedidos e integração com métodos de pagamento, visando otimizar a experiência tanto para os clientes quanto para os administradores da empresa. 
+
+Este trabalho foi o meu Projeto de Conclusão de Curso em Análise e Desenvolvimento de Sistemas, realizado na ETEC Jardim Ângela. Durante o desenvolvimento, apliquei meus conhecimentos de front-end e back-end, utilizando tecnologias como HTML, CSS, JavaScript, PHP e banco de dados MySQL, para garantir um sistema ágil, seguro e de fácil navegação. O objetivo do projeto foi criar uma solução que atendesse às necessidades da empresa, com um design responsivo e escalável, pronto para suportar futuras expansões e melhorar a experiência de compra dos consumidores.
